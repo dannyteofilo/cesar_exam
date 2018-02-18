@@ -1,0 +1,19 @@
+{
+  "name": "api_cifrado_cesar",
+  "version": "1.0.0",
+  "description": "cifrado cesar",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.0"
+  }
+}
