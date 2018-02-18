@@ -6,8 +6,8 @@ Clone git repository:<br>
 Install dependencies:<br>
 ```$ npm install```<br>
 run api:<br>
-```$ npm start```
-##Example
+```$ npm start```<br>
+**Example** (Using NodeJs request)
 ```javascript
 var request = require("request");
 
