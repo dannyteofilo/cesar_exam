@@ -8,5 +8,4 @@ Install dependencies:
 run api:
 **$ npm start**
 
-  $ git status
-
+  ```$ git status```
